@@ -5,7 +5,7 @@
 <h4 align="center">Quantitative Finance · Risk Analytics · Stochastic Modeling · Monte Carlo Simulation</h4>
 
 <p align="center">
-  <a href="https://linkedin.com/in/https://www.linkedin.com/in/sharmin-akter-076660317/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+ <a href="https://www.linkedin.com/in/sharmin-akter-076660317/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="mailto:sharmin.akter.002@student.uni.lu"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 

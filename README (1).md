@@ -56,7 +56,7 @@ Simulating stock price paths via Monte Carlo methods to estimate price distribut
 **[Low-Rank Matrix Completion (Retail)](https://github.com/YOUR_USERNAME/low-rank-matrix-completion-retail)**
 Applying low-rank matrix completion techniques to retail data for prediction/recommendation tasks.
 
-> 💡 Tip for you: add a short README to each of these repos (what it does, method used, key result/plot) — that's what recruiters actually click into.
+
 
 ---
 

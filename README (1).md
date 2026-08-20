@@ -1,17 +1,11 @@
-<!--
-HOW TO USE THIS FILE
-1. Create a new PUBLIC repo named EXACTLY your GitHub username (e.g. github.com/YOUR_USERNAME/YOUR_USERNAME)
-2. Add this file as README.md in that repo
-3. Replace YOUR_USERNAME everywhere below (search for it), and fill in your LinkedIn URL
-4. It will auto-render at the top of your GitHub profile page
--->
+
 
 <h1 align="center">Hi 👋, I'm Sharmin Akter</h1>
 <h3 align="center">Financial Mathematics M.Sc. Student @ University of Luxembourg</h3>
 <h4 align="center">Quantitative Finance · Risk Analytics · Stochastic Modeling · Monte Carlo Simulation</h4>
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://linkedin.com/in/https://www.linkedin.com/in/sharmin-akter-076660317/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="mailto:sharmin.akter.002@student.uni.lu"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 

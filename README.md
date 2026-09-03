@@ -39,13 +39,4 @@
 
 ---
 
-
-
-<p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=sharminakhi998-dev&show_icons=true&theme=default&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharminakhi998-dev&layout=compact&theme=default" />
-</p>
-
----
-
 <p align="center"><i>Thanks for visiting — feel free to reach out about quant finance, risk, or data roles!</i></p>

@@ -39,28 +39,7 @@
 
 ---
 
-### 📌 Featured Projects
 
-**[Insurance Claims Simulation](https://github.com/YOUR_USERNAME/Insurance-claims-simulation)**
-Queueing-theory model of insurance claim processing — waiting times, system utilization, and staffing optimization under standard vs. priority-based handling.
-
-**[Transaction Risk Analytics](https://github.com/YOUR_USERNAME/Transaction-risk-analytics)**
-Risk analytics on transaction data — anomaly/risk scoring applied to financial transaction flows.
-
-**[Monte Carlo GBM](https://github.com/YOUR_USERNAME/monte_carlo_gbm)**
-Monte Carlo simulation of Geometric Brownian Motion for asset price / option pricing applications.
-
-**[Monte Carlo Stock Simulation](https://github.com/YOUR_USERNAME/monte_carlo_stock-simulation)**
-Simulating stock price paths via Monte Carlo methods to estimate price distributions and risk metrics.
-
-**[Low-Rank Matrix Completion (Retail)](https://github.com/YOUR_USERNAME/low-rank-matrix-completion-retail)**
-Applying low-rank matrix completion techniques to retail data for prediction/recommendation tasks.
-
-
-
----
-
-### 📊 GitHub Stats
 
 <p align="left">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default&count_private=true" />

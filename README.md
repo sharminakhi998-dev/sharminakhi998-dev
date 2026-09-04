@@ -19,7 +19,7 @@
 - 💼 Former **Supply Chain Finance Analyst** at Kontoor Brands — P&L analysis, cost optimization, financial forecasting
 - 🔬 Currently researching Continuous time finance model at UniLu
 - 🌱 Focus areas: derivatives pricing, stochastic modeling, Monte Carlo methods, VaR & stress testing, credit risk
-- 📅 Open to: Summer internship (Jul–Sep 2026) · Working student role, 15h/week (Oct–Dec 2026) · Full-time internship (Feb–Jul 2027)
+- 📅 Open to: Full-time internship (Feb–Jul 2027)
 
 ---
 
